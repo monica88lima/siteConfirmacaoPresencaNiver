@@ -1,0 +1,18 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  body {
+    color:#702647;
+    background: url('fundo.png') no-repeat ;
+    background-size: cover;
+  
+  }
+  
+  .local{
+      font-size:18px;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color:rgb(196, 23, 181);
+      
+  }
